@@ -1,0 +1,10 @@
+#python 3.10
+fastapi==0.115.6
+langchain_classic==1.0.1
+langchain_community==0.4.1
+langchain_core==1.2.6
+pydantic==2.10.6
+pymysql==1.1.1
+sqlalchemy==2.0.45
+uvicorn==0.34.0
+PyJWT==2.10.1
